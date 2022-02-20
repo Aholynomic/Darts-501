@@ -1,0 +1,11 @@
+﻿  Dartboard.cpp
+  Game.cpp
+  Player.cpp
+  Score.cpp
+  Source.cpp
+e:\ethan\darts project\darts project final part\darts project final part\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+e:\ethan\darts project\darts project final part\darts project final part\game.cpp(70): warning C4715: 'Game::checkScore': not all control paths return a value
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Darts Project Final Part.vcxproj -> E:\Ethan\Darts Project\Darts Project Final Part\Release\Darts Project Final Part.exe
